@@ -1,3 +1,4 @@
+{{-- navbar --}}
 <div class="navbar bg-base-100">
     <div class="navbar-start">
     </div>
@@ -7,3 +8,4 @@
     <div class="navbar-end">
     </div>
   </div>
+  {{-- akhir navbar --}}

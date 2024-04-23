@@ -14,12 +14,13 @@
   @include('layouts.navbar')
   {{-- akhir navbar --}}
 
-  {{-- content --}}
-  @yield('contect')
-  {{-- akhir content --}}
+
+  {{-- contect --}}
+  @yield('content')
+  {{-- akhir contect --}}
 
   {{-- footer --}}
-    @include('layouts.footer')
+  @include('layouts.footer')
   {{-- footer --}}
 
 </body>
